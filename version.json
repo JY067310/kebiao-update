@@ -1,9 +1,9 @@
 {
-  "version": "2.0.7",
-  "versionCode": 31,
+  "version": "2.0.8",
+  "versionCode": 32,
   "date": "2026-11-10",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.7.apk",
-  "notes": "修复在应用内登录教务系统时点「登录」没反应的问题；另外加了一个「用浏览器打开」的备用入口。",
-  "sha256": "ca3a93f9c7badc1f73efad402d0af33ce29b91897fdf032b5fbf20d2d33d0cb8",
-  "size": 36681362
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.8.apk",
+  "notes": "识别结果不准时，可以一键「导出网页原文」；同时不再把「上课班级」「课程性质」这类字段当成课程名。",
+  "sha256": "f8edd47004de21ae48351daf2c8c54e4eac60ea73382dae908c6a518f08771ed",
+  "size": 36697746
 }
