@@ -1,0 +1,9 @@
+{
+  "version": "2.0.2",
+  "versionCode": 26,
+  "date": "2026-11-10",
+  "apk": "https://github.com/JY067310/kebiao-update/releases/download/v2.0.2/kebiao-2.0.2.apk",
+  "notes": "修复打开自动更新后启动闪退：补上 ACCESS_NETWORK_STATE 权限，并给自动更新流程加了异常兜底。自动更新开关、内置更新源、6 小时节流、移动数据跳过都保持不变。",
+  "sha256": "f08bc8bdcf9204beca4b42cf6469b0228b6716f818ef9d3d5dbcfa7d7d7cc2b2",
+  "size": 36648170
+}
