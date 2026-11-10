@@ -1,9 +1,9 @@
 {
-  "version": "2.0.8",
-  "versionCode": 32,
+  "version": "2.0.9",
+  "versionCode": 33,
   "date": "2026-11-10",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.8.apk",
-  "notes": "识别结果不准时，可以一键「导出网页原文」；同时不再把「上课班级」「课程性质」这类字段当成课程名。",
-  "sha256": "f8edd47004de21ae48351daf2c8c54e4eac60ea73382dae908c6a518f08771ed",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.9.apk",
+  "notes": "修正课表识别：不再把「课程编号」「上课班级」当成课程名，一门课也不会再被拆成好几条。",
+  "sha256": "d60020864052da1695ec4bfd46b75f0f20dd0167cd8eef051be71e25f2e29544",
   "size": 36697746
 }
