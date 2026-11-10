@@ -2,7 +2,7 @@
   "version": "2.0.3",
   "versionCode": 27,
   "date": "2026-11-10",
-  "apk": "https://github.com/JY067310/kebiao-update/releases/download/v2.0.3/kebiao-2.0.3.apk",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.3.apk",
   "notes": "更新源改为固定地址，不再依赖电脑上的临时服务。检查更新、自动更新、六项校验逻辑与 2.0.2 一致。",
   "sha256": "679f6be3b61af63d298ea4aba55e4e73df4661676db54250fdc8a42a3bb04fe8",
   "size": 36648170
