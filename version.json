@@ -1,9 +1,9 @@
 {
-  "version": "2.0.4",
-  "versionCode": 28,
+  "version": "2.0.5",
+  "versionCode": 29,
   "date": "2026-11-10",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.4.apk",
-  "notes": "修复升级后更新源仍指向旧临时地址的问题：新增一次性迁移，自动把 trycloudflare 地址换成固定的云端地址。更新源本身改由 GitHub Pages 托管。",
-  "sha256": "cc54ae41c812b454f58c725baeb98d30cd22f272d6e334f290a9fb0c3c62865d",
-  "size": 36648170
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.5.apk",
+  "notes": "「我的」页改为左上角头像与昵称；修复退出 AI 页白屏一闪；精简各页面说明文字",
+  "sha256": "4037480623d14025b21a59e3945dee945b8ea7cc6aa4200d2a7807820e08ea02",
+  "size": 36664554
 }
