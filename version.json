@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
-  "versionCode": 29,
+  "version": "2.0.6",
+  "versionCode": 30,
   "date": "2026-11-10",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.5.apk",
-  "notes": "「我的」页改为左上角头像与昵称；修复退出 AI 页白屏一闪；精简各页面说明文字",
-  "sha256": "4037480623d14025b21a59e3945dee945b8ea7cc6aa4200d2a7807820e08ea02",
-  "size": 36664554
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.6.apk",
+  "notes": "新增「从教务系统同步课表」：用校园卡号登录学校统一身份认证，一次取回本学期全部课程；也能选教务网页文件导入，或把课表生成一段口令发给同学。同时修好了连续两节课被拆成两条的问题。",
+  "sha256": "da4f95910e13ef01109b88e874a155305a74c75c91ab484e1188ff7145ce4f9f",
+  "size": 36681362
 }
