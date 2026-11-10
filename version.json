@@ -1,9 +1,9 @@
 {
-  "version": "2.0.9",
-  "versionCode": 33,
+  "version": "2.1.0",
+  "versionCode": 34,
   "date": "2026-11-10",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.0.9.apk",
-  "notes": "修正课表识别：不再把「课程编号」「上课班级」当成课程名，一门课也不会再被拆成好几条。",
-  "sha256": "d60020864052da1695ec4bfd46b75f0f20dd0167cd8eef051be71e25f2e29544",
-  "size": 36697746
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.1.0.apk",
+  "notes": "教务课表识别彻底修复：拿到真实课表页后重写解析，正确区分简略块/详细块与课程清单表，24 门课全部识别正确、单双周不再误标、地点取到具体教室号。",
+  "sha256": "2cb5463b57da54ea9c0aa6b2e5a01f96bc796d7f85d885f0ed907f06f0fec264",
+  "size": 36714130
 }
