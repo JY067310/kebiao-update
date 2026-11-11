@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "versionCode": 34,
-  "date": "2026-11-10",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.1.0.apk",
-  "notes": "教务课表识别彻底修复：拿到真实课表页后重写解析，正确区分简略块/详细块与课程清单表，24 门课全部识别正确、单双周不再误标、地点取到具体教室号。",
-  "sha256": "2cb5463b57da54ea9c0aa6b2e5a01f96bc796d7f85d885f0ed907f06f0fec264",
-  "size": 36714130
+  "version": "2.1.1",
+  "versionCode": 35,
+  "date": "2026-11-11",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.1.1.apk",
+  "notes": "聊天改成三级：长按底部 AI 按钮进入智能体目录（头像+名字+最后一句），点进去才是聊天页；每条消息两侧显示头像和署名，她的名字与头像可在聊天页设置里改。",
+  "sha256": "5d2928668237c8ce7d0fa09c3af36c61840588a97712f66e784eb6e8eb37a872",
+  "size": 36763278
 }
