@@ -1,9 +1,9 @@
 {
-  "version": "2.3.0",
-  "versionCode": 47,
+  "version": "2.3.1",
+  "versionCode": 48,
   "date": "2026-11-16",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.3.0.apk",
-  "notes": "底栏「注记」改成「作业」，点进去只看到作业\n作业按未完成 / 已完成 / 全部筛选，按截止时间排序，过期的标红\n新建作业不用再选类型，默认就是作业\n旧注记没有删，只是不再显示",
-  "sha256": "f319ab369b30e34266f14cad72c5e65077b157f86ba0c2b93d2c531a4d35e7a9",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.3.1.apk",
+  "notes": "底栏第二个还是「注记」，点进去是作业\n主页去掉了证书、导入、截图、主题四个入口卡\n主页留了三个空卡片位，之后往里填新东西\n陪伴功能必要文件下载条保留",
+  "sha256": "5fdb4bcfd2f84a0876a7e32eda4c22583260f94a1b7af64a18973222fcb90d1e",
   "size": 36958066
 }
