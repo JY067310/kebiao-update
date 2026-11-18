@@ -1,9 +1,9 @@
 {
-  "version": "2.3.5",
-  "versionCode": 52,
+  "version": "2.3.6",
+  "versionCode": 53,
   "date": "2026-11-18",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.3.5.apk",
-  "notes": "修复桌面小组件把下一节上课时间当成下课时间的问题：每节课改为 40 分钟，已按节导入的旧课程自动迁移。",
-  "sha256": "8480d3a19c257941db7e9fa141619acd63f88ae496347c7120d2deec6587405c",
-  "size": 36974450
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.3.6.apk",
+  "notes": "新增主题「待见春」：月白山茶国风主题，第一套带插画的主题。设置 → 主题美化里可切换，课表课程色也会跟着主题换。",
+  "sha256": "c1ae290198a41301028921439806c562d8b16256f781502dfed8f0ca16d2b465",
+  "size": 37587742
 }
