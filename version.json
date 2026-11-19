@@ -1,9 +1,9 @@
 {
-  "version": "2.5.3",
-  "versionCode": 70,
+  "version": "2.5.4",
+  "versionCode": 71,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.3.apk",
-  "notes": "导航栏换成你提供的终绯 Q 版立绘：主页（哥特小屋）、作业（抱书思考）、课表（黑板星盘）、注记（伏案书写）。AI 格的图还缺，暂时沿用原 AI 立绘。",
-  "sha256": "1a96f14a2fc0bbc456c42b70c7702a996256c957cf80e58ca3471d6908f26363",
-  "size": 42617578
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.4.apk",
+  "notes": "导航栏五格立绘齐了：主页（哥特小屋）、作业（抱书思考）、AI（紫晶能量球）、课表（黑板星盘）、注记（伏案书写），全部换成终绯 Q 版。",
+  "sha256": "9e820a58c929d1195c609185289a5633df41a80856ededd55ff1e22c50864ee4",
+  "size": 42545562
 }
