@@ -1,9 +1,9 @@
 {
-  "version": "2.4.1",
-  "versionCode": 58,
+  "version": "2.4.2",
+  "versionCode": 59,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.1.apk",
-  "notes": "新增「相册」：在个人页里。照片按原始分辨率保存——不复用作业那套「缩到 1600px 再 JPEG 重压」，而是原样复制原始文件，画质与分辨率零损失，放大查看用的是真实像素。",
-  "sha256": "4a0ab81a8f5f424ba36ff95f02a1396968ccdf35399ed40b939e8013d54d52f0",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.2.apk",
+  "notes": "相册看大图改成瓦片式（同系统相册做法）：先铺低清底图，放大时只解码可视区域的原图瓦片。放到任意倍数都是原始像素，内存占用与图片总像素无关，不会再因大图滑动闪退。照片本身一直是原样字节保存。",
+  "sha256": "1c00d7c7d476275ffc3e0d8cb9172e9226250f33de708b57f1388d0fa5c12fed",
   "size": 38689802
 }
