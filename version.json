@@ -1,9 +1,9 @@
 {
-  "version": "2.4.4",
-  "versionCode": 61,
+  "version": "2.4.5",
+  "versionCode": 62,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.4.apk",
-  "notes": "相册看大图改瓦片式解码（同系统相册做法）：先铺低清底图，放大时只解码可视区域原图瓦片，任意倍数都是原始像素。修复了拖动时旧瓦片未及时释放导致内存冲高的问题（实测从峰值 204MB 降到稳定 20MB）。照片本身一直是原样字节保存。",
-  "sha256": "3520b64cb7c595361d10f7615fd4adc958384fc8ec9532f98ef539f65ecae8a1",
-  "size": 38689802
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.5.apk",
+  "notes": "点头像打开「个人」页的方向改成从左侧滑入、向右覆盖底层页，返回时整体镜像。其它二级页仍是右侧推入。",
+  "sha256": "952371a532a3cc850070e375e1b76e8a2d77a1871c3b5f3ba56e45b07105ed83",
+  "size": 38706186
 }
