@@ -1,9 +1,9 @@
 {
-  "version": "2.5.1",
-  "versionCode": 68,
+  "version": "2.5.2",
+  "versionCode": 69,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.1.apk",
-  "notes": "新增第 4 套主题「终绯」：暗色角色主题，万劫 · 指间。深渊黑底、血绯主色、王冠金收束，附带九张主题插画（立绘、AI 立绘、五格导航小人、荆棘枝、绯花、课表背景荆棘树）。",
-  "sha256": "5b54f9b14cfb26b771d27fa9970bc735fabefd04f32e73af9f2623a1dff2efba",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.2.apk",
+  "notes": "重做终绯主题的观感：学期主卡不再是整块纯红，改成暖绯到深渊黑的斜向渐变，并叠加程序化装饰（星盘弧线、龙爪刮痕、荆棘冠、金色内描边）；主页工具卡改成金线描边图标 + 角落荆棘折角。全部用 Canvas 绘制，不增加任何位图负担。",
+  "sha256": "1202b0eb2790c97452cc5f05b7232b415deb595e223674fbc412ce0c3271e41d",
   "size": 42799066
 }
