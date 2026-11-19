@@ -1,9 +1,9 @@
 {
-  "version": "2.4.0",
-  "versionCode": 57,
+  "version": "2.4.1",
+  "versionCode": 58,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.0.apk",
-  "notes": "点头像不再从底部弹出半屏面板，改成从右边滑进一整页「个人」，跟 QQ 一样：有返回箭头，也能用返回键退出，设置仍在页面里。",
-  "sha256": "a2d96f4f58546db9bd4c25dab816c5c0f8081fe891bd993e2130c7bd0aac71e0",
-  "size": 38656994
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.1.apk",
+  "notes": "新增「相册」：在个人页里。照片按原始分辨率保存——不复用作业那套「缩到 1600px 再 JPEG 重压」，而是原样复制原始文件，画质与分辨率零损失，放大查看用的是真实像素。",
+  "sha256": "4a0ab81a8f5f424ba36ff95f02a1396968ccdf35399ed40b939e8013d54d52f0",
+  "size": 38689802
 }
