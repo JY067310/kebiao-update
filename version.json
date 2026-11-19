@@ -1,9 +1,9 @@
 {
-  "version": "2.5.4",
-  "versionCode": 71,
+  "version": "2.5.5",
+  "versionCode": 72,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.4.apk",
-  "notes": "导航栏五格立绘齐了：主页（哥特小屋）、作业（抱书思考）、AI（紫晶能量球）、课表（黑板星盘）、注记（伏案书写），全部换成终绯 Q 版。",
-  "sha256": "9e820a58c929d1195c609185289a5633df41a80856ededd55ff1e22c50864ee4",
-  "size": 42545562
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.5.apk",
+  "notes": "终绯主题重做：课表文字在暗底上原本糊成一片（课程色被压暗后对比只有 1.59:1），现在按 WCAG AA 重算成 5.49–6.06:1；整体底色提亮、描边加深，卡片层次出来了；新增全屏角色氛围层（四角荆棘冠、黑羽、星盘残影、绯雾），所有页面都生效，不再只是换颜色；标题换哥特衬线字体并拉开字距。",
+  "sha256": "396bfb0c87a9efe155dd4005d8e4b4fbbd2a6a03a1448f5a2949c03bcafd69de",
+  "size": 42545558
 }
