@@ -1,9 +1,9 @@
 {
-  "version": "2.4.7",
-  "versionCode": 64,
+  "version": "2.4.8",
+  "versionCode": 65,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.7.apk",
-  "notes": "底部导航的五个 Q 版角色改为按统一高度排版，AI 那一格不再显得比其他四个小（裁掉原图 21% 的透明边距，并按高度对齐缩放）。",
-  "sha256": "b57291bb66bc2ccb4c84d8ae786c65ac400fa1a4a0222fadc3dd7acd4f7168ea",
-  "size": 38849022
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.8.apk",
+  "notes": "主题美化页顶部改成铺满「待见春」立绘（原来是右上角一枝折枝），主题卡片也换用同一张图；立绘按 1600px 原图重新导出，比之前 1200px 更清晰。",
+  "sha256": "dcb204f92656c3f133319326904a962c54fc84749bc2a69a94c6911d3d232808",
+  "size": 39071158
 }
