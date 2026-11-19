@@ -1,9 +1,9 @@
 {
-  "version": "2.4.8",
-  "versionCode": 65,
+  "version": "2.5.0",
+  "versionCode": 67,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.8.apk",
-  "notes": "主题美化页顶部改成铺满「待见春」立绘（原来是右上角一枝折枝），主题卡片也换用同一张图；立绘按 1600px 原图重新导出，比之前 1200px 更清晰。",
-  "sha256": "dcb204f92656c3f133319326904a962c54fc84749bc2a69a94c6911d3d232808",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.0.apk",
+  "notes": "主题精简为三套：青柠、夜航、待见春。移除薄荷、蜜桃、暮紫、海盐；此前选过这几套的会自动回到青柠。另外桌面小组件「下一节课」在待见春主题下会显示角色。",
+  "sha256": "dfba105b2f3f3af4e8549d0eca3853bc8cf54540bd3ca79aeb861c1334f18307",
   "size": 39071158
 }
