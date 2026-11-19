@@ -1,9 +1,9 @@
 {
-  "version": "2.5.0",
-  "versionCode": 67,
+  "version": "2.5.1",
+  "versionCode": 68,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.0.apk",
-  "notes": "主题精简为三套：青柠、夜航、待见春。移除薄荷、蜜桃、暮紫、海盐；此前选过这几套的会自动回到青柠。另外桌面小组件「下一节课」在待见春主题下会显示角色。",
-  "sha256": "dfba105b2f3f3af4e8549d0eca3853bc8cf54540bd3ca79aeb861c1334f18307",
-  "size": 39071158
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.1.apk",
+  "notes": "新增第 4 套主题「终绯」：暗色角色主题，万劫 · 指间。深渊黑底、血绯主色、王冠金收束，附带九张主题插画（立绘、AI 立绘、五格导航小人、荆棘枝、绯花、课表背景荆棘树）。",
+  "sha256": "5b54f9b14cfb26b771d27fa9970bc735fabefd04f32e73af9f2623a1dff2efba",
+  "size": 42799066
 }
