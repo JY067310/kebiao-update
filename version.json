@@ -1,9 +1,9 @@
 {
-  "version": "2.4.5",
-  "versionCode": 62,
+  "version": "2.4.6",
+  "versionCode": 63,
   "date": "2026-11-19",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.5.apk",
-  "notes": "点头像打开「个人」页的方向改成从左侧滑入、向右覆盖底层页，返回时整体镜像。其它二级页仍是右侧推入。",
-  "sha256": "952371a532a3cc850070e375e1b76e8a2d77a1871c3b5f3ba56e45b07105ed83",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.4.6.apk",
+  "notes": "AI 从独立页面改成底部一级 tab：点一下直接切过去，与其它 tab 共用头像条和底栏，不再推入新页。主页新增「实用工具」区（每行两个入口），去掉主卡右上角的「春」字印章和底部的陪伴下载条。",
+  "sha256": "1a56f55620ea8ffa85487240f9ca75711eb9e301f9650447afd3c21348705e47",
   "size": 38706186
 }
