@@ -1,9 +1,9 @@
 {
-  "version": "2.5.15",
-  "versionCode": 82,
-  "date": "2026-11-20",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.15.apk",
-  "notes": "刻印改到左上角并放大，每个主题不同造型（待见春山茶花瓣、终绯荆棘）；相册内新增刻印分类栏；恢复选择与全选；待见春主页加金花瓣记号与金线；页面转场改为进场从左向右、退场从右向左；小组件当天高亮收窄。",
-  "sha256": "c80755bc536bd612f05a227b173b5027a9b42ca046afec0141f5133ae38feed5",
-  "size": 42627522
+  "version": "2.5.16",
+  "versionCode": 83,
+  "date": "2026-11-21",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.16.apk",
+  "notes": "修注记照片糊：注记图片改存 2560px / JPEG 92（原 1600px/86），全屏查看改成瓦片解码，放大不再糊。注意：已存的旧图无法回补，需重新添加照片。",
+  "sha256": "2bfa36a836f5dcdbaa2c68e1ed5ba8598c7a02a36ed58954c8e31809822dd996",
+  "size": 42627526
 }
