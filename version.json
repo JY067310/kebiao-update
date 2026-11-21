@@ -1,9 +1,9 @@
 {
-  "version": "2.5.17",
-  "versionCode": 84,
+  "version": "2.5.18",
+  "versionCode": 85,
   "date": "2026-11-21",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.17.apk",
-  "notes": "注记和作业的图片现在也能存到手机相册：全屏看图时右上角加了下载按钮（和相册下载走同一套字节级复制）。注记图片仍按 2560px 储存，旧图无法回补。",
-  "sha256": "7fdea7850c54f56c92eeaddb761bd2fab1dee5255d64e24f80b2dd63fbba3a51",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.18.apk",
+  "notes": "修小组件里角色像贴纸、还挡住下课进度条的问题：角色缩到卡高 52% 并四周内缩，左/上边缘做渐隐溶进卡面；正文和进度条整块让开角色，不再被盖住。",
+  "sha256": "b2466e534246f07493faf503a3654dc733ed3b750f87cf3c91767cb79bcb2d28",
   "size": 42627526
 }
