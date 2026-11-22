@@ -1,9 +1,9 @@
 {
-  "version": "2.5.19",
-  "versionCode": 86,
+  "version": "2.5.20",
+  "versionCode": 87,
   "date": "2026-11-22",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.19.apk",
-  "notes": "修「装好后 App 一点就闪退」：桌面小组件的角色渐隐用了 0xFFFFFFFF 这种长整型色值，在 Android 14+ 会命中错误的重载并抛异常，导致启动即崩。改用 Color.TRANSPARENT/WHITE。",
-  "sha256": "4dc72f274bb49322b9afc6072e4380da55e4fcf7e8294f56967240d11f2dd0e4",
-  "size": 42627526
+  "apk": "kebiao-2.5.20.apk",
+  "notes": "新增「小说」：从主页实用工具进去，导入 TXT/EPUB，自动识别编码与分章，书架记进度；阅读页可调字号与四种底色（纸白/米黄/护眼绿/夜间）。",
+  "sha256": "44c5a8113297695d4b902cc5dd2b8b906e7e15dbae404bb500d8ea7174e4b733",
+  "size": 42676678
 }
