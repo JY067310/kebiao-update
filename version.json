@@ -1,9 +1,9 @@
 {
-  "version": "2.5.18",
-  "versionCode": 85,
-  "date": "2026-11-21",
-  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.18.apk",
-  "notes": "修小组件里角色像贴纸、还挡住下课进度条的问题：角色缩到卡高 52% 并四周内缩，左/上边缘做渐隐溶进卡面；正文和进度条整块让开角色，不再被盖住。",
-  "sha256": "b2466e534246f07493faf503a3654dc733ed3b750f87cf3c91767cb79bcb2d28",
+  "version": "2.5.19",
+  "versionCode": 86,
+  "date": "2026-11-22",
+  "apk": "https://jy067310.github.io/kebiao-update/kebiao-2.5.19.apk",
+  "notes": "修「装好后 App 一点就闪退」：桌面小组件的角色渐隐用了 0xFFFFFFFF 这种长整型色值，在 Android 14+ 会命中错误的重载并抛异常，导致启动即崩。改用 Color.TRANSPARENT/WHITE。",
+  "sha256": "4dc72f274bb49322b9afc6072e4380da55e4fcf7e8294f56967240d11f2dd0e4",
   "size": 42627526
 }
